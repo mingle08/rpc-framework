@@ -1,4 +1,4 @@
-package com.study.service;
+package com.study.socketRpc.service;
 
 /**
  * 服务接口，对应Service API角色
