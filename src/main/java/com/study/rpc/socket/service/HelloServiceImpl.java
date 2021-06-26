@@ -1,4 +1,4 @@
-package com.study.socketRpc.service;
+package com.study.rpc.socket.service;
 
 /**
  * 远程接口实现类，对应ServiceImpl角色

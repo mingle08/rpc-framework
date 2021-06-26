@@ -1,7 +1,7 @@
-package com.study.socketRpc.invoke;
+package com.study.rpc.socket.invoke;
 
-import com.study.socketRpc.framework.ConsumerProxy;
-import com.study.socketRpc.service.HelloService;
+import com.study.rpc.socket.service.HelloService;
+import com.study.rpc.socket.framework.ConsumerProxy;
 
 import java.util.concurrent.TimeUnit;
 

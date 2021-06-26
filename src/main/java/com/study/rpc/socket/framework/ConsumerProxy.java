@@ -1,4 +1,4 @@
-package com.study.socketRpc.framework;
+package com.study.rpc.socket.framework;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;

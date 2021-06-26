@@ -1,8 +1,8 @@
-package com.study.socketRpc.invoke;
+package com.study.rpc.socket.invoke;
 
-import com.study.socketRpc.framework.ProviderReflect;
-import com.study.socketRpc.service.HelloService;
-import com.study.socketRpc.service.HelloServiceImpl;
+import com.study.rpc.socket.framework.ProviderReflect;
+import com.study.rpc.socket.service.HelloService;
+import com.study.rpc.socket.service.HelloServiceImpl;
 
 public class RpcProviderMain {
     public static void main(String[] args) throws Exception {

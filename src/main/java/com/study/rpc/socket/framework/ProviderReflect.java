@@ -1,4 +1,4 @@
-package com.study.socketRpc.framework;
+package com.study.rpc.socket.framework;
 
 import org.apache.commons.lang3.reflect.MethodUtils;
 
